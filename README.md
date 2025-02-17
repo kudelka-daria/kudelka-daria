@@ -81,7 +81,6 @@ I'm a beginning QA engineer and I'm looking for my first commercial experience a
      
 - [Testing theory](https://github.com/kudelka-daria/theory/blob/main/README.md)
 - [Test design techniques](https://github.com/kudelka-daria/design/blob/main/README.md)
-- [Testing Documentation](https://github.com/kudelka-daria/docs/blob/main/README.md) 
 - [Web-app testing](https://github.com/kudelka-daria/web/blob/main/README.md) 
 - [Mobile app testing](https://github.com/kudelka-daria/mobile/blob/main/README.md)
 - [API Testing (Postman)](https://github.com/kudelka-daria/api/blob/main/README.md)
