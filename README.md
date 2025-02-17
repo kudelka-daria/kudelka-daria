@@ -15,22 +15,16 @@ I'm a beginning QA engineer and I'm looking for my first commercial experience a
 <a href= "https://t.me/dashakudart"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
 <a href= "mailto:dashka120318@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
  ---
- <div align="center">
-  <table>
-  <tr>
-    <td>
-      <h3>
-       Tools i work with:   
-      </h3>
-      <p>
-       
+        
  ## Look at my CV
-[IN ENGLISH](я сделаю чуть позже)<br> 
-[IN RUSSIAN](я сделаю чуть позже)      
 
+ [IN ENGLISH](я сделаю чуть позже)<br> 
+[IN RUSSIAN](я сделаю чуть позже) 
+ 
 ---
+### Some of the Tools I’ve Worked With
 
-###   📁 For  testing  documentation:
+####   📁 For  testing  documentation:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
@@ -39,19 +33,19 @@ I'm a beginning QA engineer and I'm looking for my first commercial experience a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
-### 🛠 For  web-app  testing:
+#### 🛠 For  web-app  testing:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="[https://images.app.goo.gl/fYmnxXQGy6krMswE6](https://images.app.goo.gl/J49ki57bFLCV1EPM7)" title="postman" alt="postman" width="40" height="40"/>&nbsp
 </div>
 
-### 📱 For  mobile  app  testing:
+#### 📱 For  mobile  app  testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
+  <img src="[https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg](https://images.app.goo.gl/RpoidS85A3p6U95X7)" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
       </p>
     </td>
@@ -61,14 +55,14 @@ I'm a beginning QA engineer and I'm looking for my first commercial experience a
 </h3>
       <p>
        
-       ### 💾 For  working  with  Data:
+#### 💾 For  working  with  Data:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
-### ✏️ For  working  with  Code:
+#### ✏️ For  working  with  Code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
