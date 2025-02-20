@@ -27,6 +27,7 @@ I'm a beginning QA engineer and I'm looking for my first commercial experience a
 ####   📁 For  testing  documentation:
 
 <div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
@@ -37,15 +38,18 @@ I'm a beginning QA engineer and I'm looking for my first commercial experience a
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="[https://images.app.goo.gl/fYmnxXQGy6krMswE6](https://images.app.goo.gl/J49ki57bFLCV1EPM7)" title="postman" alt="postman" width="40" height="40"/>&nbsp
+    <img src="https://camo.githubusercontent.com/66653fb9b350122ece0a9db72f67c75ec0316efe11126b7c7e46296ce64e2561/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335343230322f706f73746d616e2d69636f6e2e737667" title="postman" alt="postman" width="40" height="40"/>&nbsp
+   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
 #### 📱 For  mobile  app  testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="[https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg](https://images.app.goo.gl/RpoidS85A3p6U95X7)" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFqUrvezr20po31wE1nXuuZu5qG-j23g8Uig&s" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
+   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
+    <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
       </p>
     </td>
