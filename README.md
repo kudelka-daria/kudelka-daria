@@ -18,7 +18,8 @@ I'm a beginning QA engineer and I'm looking for my first commercial experience a
         
  ## Look at my CV
 
- [IN ENGLISH](я сделаю чуть позже)<br> 
+[IN ENGLISH](https://github.com/user-attachments/files/18893544/Kudzelka_Junior.QA.Engineer.docx.pdf)
+
 [IN RUSSIAN](я сделаю чуть позже) 
  
 ---
