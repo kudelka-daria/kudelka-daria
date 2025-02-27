@@ -7,6 +7,8 @@
 I'm a beginning QA engineer and I'm looking for my first commercial experience as a QA Engineer. Here, you can explore some of the test artifacts I've created during my learning journey, including test plans, test cases, and, of course, bug reports for various types of projects.
 
 
+
+
 ---
 
 ### 📫 And feel free to contact me: 
@@ -18,7 +20,8 @@ I'm a beginning QA engineer and I'm looking for my first commercial experience a
         
  ## Look at my CV
 
-[IN ENGLISH](https://github.com/user-attachments/files/18893544/Kudzelka_Junior.QA.Engineer.docx.pdf)
+[IN ENGLISH](https://github.com/user-attachments/files/19007938/Darya.Kudzelka_QA.Engineer.pdf)
+
  
 ---
 ### Some of the Tools I’ve Worked With
